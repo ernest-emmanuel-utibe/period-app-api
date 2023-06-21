@@ -1,5 +1,5 @@
 package africa.semicolon.periodapp.security;
-
+// Let the challenge begin
 import lombok.NonNull;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
